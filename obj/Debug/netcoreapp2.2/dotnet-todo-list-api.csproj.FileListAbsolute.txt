@@ -1,0 +1,16 @@
+c:\Users\aparecido.muniz\source\dotnet-todo-list-api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+c:\Users\aparecido.muniz\source\dotnet-todo-list-api\bin\Debug\netcoreapp2.2\appsettings.json
+c:\Users\aparecido.muniz\source\dotnet-todo-list-api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\aparecido.muniz\source\dotnet-todo-list-api\bin\Debug\netcoreapp2.2\dotnet-todo-list-api.deps.json
+C:\Users\aparecido.muniz\source\dotnet-todo-list-api\bin\Debug\netcoreapp2.2\dotnet-todo-list-api.runtimeconfig.json
+C:\Users\aparecido.muniz\source\dotnet-todo-list-api\bin\Debug\netcoreapp2.2\dotnet-todo-list-api.runtimeconfig.dev.json
+c:\Users\aparecido.muniz\source\dotnet-todo-list-api\bin\Debug\netcoreapp2.2\dotnet-todo-list-api.dll
+c:\Users\aparecido.muniz\source\dotnet-todo-list-api\bin\Debug\netcoreapp2.2\dotnet-todo-list-api.pdb
+c:\Users\aparecido.muniz\source\dotnet-todo-list-api\obj\Debug\netcoreapp2.2\dotnet-todo-list-api.csprojAssemblyReference.cache
+c:\Users\aparecido.muniz\source\dotnet-todo-list-api\obj\Debug\netcoreapp2.2\dotnet-todo-list-api.RazorAssemblyInfo.cache
+c:\Users\aparecido.muniz\source\dotnet-todo-list-api\obj\Debug\netcoreapp2.2\dotnet-todo-list-api.RazorAssemblyInfo.cs
+c:\Users\aparecido.muniz\source\dotnet-todo-list-api\obj\Debug\netcoreapp2.2\dotnet-todo-list-api.AssemblyInfoInputs.cache
+c:\Users\aparecido.muniz\source\dotnet-todo-list-api\obj\Debug\netcoreapp2.2\dotnet-todo-list-api.AssemblyInfo.cs
+c:\Users\aparecido.muniz\source\dotnet-todo-list-api\obj\Debug\netcoreapp2.2\dotnet-todo-list-api.RazorTargetAssemblyInfo.cache
+c:\Users\aparecido.muniz\source\dotnet-todo-list-api\obj\Debug\netcoreapp2.2\dotnet-todo-list-api.dll
+c:\Users\aparecido.muniz\source\dotnet-todo-list-api\obj\Debug\netcoreapp2.2\dotnet-todo-list-api.pdb
